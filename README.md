@@ -65,7 +65,7 @@ jaringan gelap.
 
 <br>
 
-## Aturan & Petunjuk Penting
+## Rules
 
 - **WAJIB** gunakan file asli dari repo ini.  
 - Jangan “Save Image As…” dari browser
